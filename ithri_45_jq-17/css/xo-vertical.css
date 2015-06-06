@@ -1,0 +1,42 @@
+
+
+
+
+#xo-menuv {
+    width:                      40px;
+    padding:                    0;
+    padding-top:                100px;
+    margin-left:-80px;
+	position:absolute;
+}
+
+#xo-menuv img {
+    width:                      40px;
+    height:                     40px;
+	margin:                     2px;
+	
+}
+
+
+#xo-menuv ul {
+    margin:                     0;
+    padding:                    0;
+    list-style:            none;
+    text-align:                 center;
+}
+
+#xo-menuv li  {
+    display:                    block;
+   	list-style:            none;
+}
+
+
+
+#xo-menuv li a {
+    display:                    block;
+    padding:                    0;
+    color:                      #fff;
+    text-decoration:            none;
+    vertical-align:             middle;
+	list-style:            none;
+}
